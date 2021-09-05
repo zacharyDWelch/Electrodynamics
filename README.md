@@ -2,8 +2,11 @@
 Python program for calculating and visualizing electrostatics.
 
 __author__ = ""
+
 __version__ = "1.0.1"
+
 __email__ = ""
+
 __status__ = "part 1"
 
 Prompt for first part:
